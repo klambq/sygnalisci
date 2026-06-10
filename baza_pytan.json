@@ -3,10 +3,10 @@
     "id": 1,
     "text": "Pracownik uzyskał informację o naruszeniu w trakcie rozmów rekrutacyjnych, ale umowy ostatecznie nie zawarto. Która ocena najlepiej odpowiada art. 4 ust. 2?",
     "options": {
-      "a": "Nie może być sygnalistą, bo ochrona zaczyna się dopiero od pierwszego dnia wykonywania pracy.",
+      "a": "Nie, bo art. 4 obejmuje tylko informacje uzyskane w czasie faktycznego wykonywania pracy albo służby.",
       "b": "Może być sygnalistą, jeżeli informacja została uzyskana w kontekście związanym z pracą przed nawiązaniem stosunku prawnego.",
-      "c": "Może być sygnalistą wyłącznie po wcześniejszym zgłoszeniu do Państwowej Inspekcji Pracy.",
-      "d": "Może być sygnalistą tylko wtedy, gdy naruszenie dotyczy prawa pracy."
+      "c": "Może być sygnalistą tylko wtedy, gdy po rekrutacji zawarto choćby krótkotrwałą umowę z podmiotem prawnym.",
+      "d": "Może być sygnalistą wyłącznie przy rekrutacji pracowniczej, ale nie przy negocjacjach umowy cywilnoprawnej."
     },
     "correct_answers": [
       "b"
@@ -16,10 +16,10 @@
     "id": 2,
     "text": "Który przypadek najtrafniej pokazuje granicę między organem publicznym a podmiotem publicznie kontrolowanym?",
     "options": {
-      "a": "Spółka komunalna jest organem publicznym zawsze, bo gmina posiada jej udziały.",
-      "b": "Spółka Skarbu Państwa jest organem publicznym zawsze, bo jej właścicielem jest państwo.",
+      "a": "Status organu publicznego wynika z publicznej kontroli właścicielskiej, jeżeli podmiot ma obowiązek stosowania przepisów o finansach publicznych.",
+      "b": "Status organu publicznego ma każdy podmiot z udziałem Skarbu Państwa lub JST, o ile prowadzi działalność w interesie publicznym.",
       "c": "Podmiot jest organem publicznym tylko wtedy, gdy wykonuje z mocy prawa zadania administracji publicznej i jest właściwy do działań następczych w ustawowej dziedzinie.",
-      "d": "Każdy podmiot, który prowadzi działalność regulowaną, jest organem publicznym."
+      "d": "Podmiot prowadzący działalność regulowaną jest organem publicznym w zakresie tej działalności, nawet bez kompetencji administracyjnych."
     },
     "correct_answers": [
       "c"
@@ -29,10 +29,10 @@
     "id": 3,
     "text": "Które zestawienie najlepiej oddaje konstrukcję informacji o naruszeniu prawa?",
     "options": {
-      "a": "Informacja obejmuje tylko naruszenia wyrządzające szkodę majątkową Skarbowi Państwa.",
-      "b": "Informacja musi dotyczyć wyłącznie już prawomocnie stwierdzonego przestępstwa.",
+      "a": "Informacja musi dotyczyć działania albo zaniechania sprzecznego z prawem, ale tylko wtedy, gdy naruszenie wywołało szkodę finansową.",
+      "b": "Informacja musi dotyczyć czynu zabronionego albo deliktu administracyjnego już potwierdzonego przez właściwy organ.",
       "c": "Informacja może dotyczyć działania albo zaniechania niezgodnego z prawem lub mającego na celu obejście prawa, ale tylko w dziedzinach objętych katalogiem.",
-      "d": "Informacja obejmuje każde naruszenie kultury organizacyjnej, nawet bez podstawy w prawie powszechnym."
+      "d": "Informacja może dotyczyć każdego naruszenia regulacji wewnętrznych, jeżeli procedura została przyjęta po konsultacjach."
     },
     "correct_answers": [
       "c"
@@ -42,9 +42,9 @@
     "id": 4,
     "text": "Podmiot prawny chce objąć procedurą wewnętrzną naruszenia własnego kodeksu etyki. Kiedy takie rozszerzenie mieści się w art. 3 ust. 2?",
     "options": {
-      "a": "Tylko wtedy, gdy kodeks etyki został zatwierdzony przez Rzecznika Praw Obywatelskich.",
-      "b": "Nigdy, bo procedura wewnętrzna nie może obejmować standardów etycznych.",
-      "c": "Zawsze, bo każdy kodeks etyki jest samodzielnym źródłem obowiązków ustawowych.",
+      "a": "Tylko wtedy, gdy kodeks etyki został wskazany w procedurze zgłoszeń zewnętrznych organu publicznego.",
+      "b": "Tylko wtedy, gdy naruszenie kodeksu etyki mieści się równocześnie w katalogu art. 3 ust. 1.",
+      "c": "Zawsze, jeżeli kodeks etyki został formalnie przyjęty przez zarząd albo kierownika podmiotu.",
       "d": "Tylko wtedy, gdy kodeks etyki został ustanowiony na podstawie przepisów prawa powszechnie obowiązującego i pozostaje z nimi zgodny."
     },
     "correct_answers": [
@@ -55,9 +55,9 @@
     "id": 5,
     "text": "Jaki skutek ma objęcie procedurą wewnętrzną naruszeń regulacji wewnętrznych na podstawie art. 3 ust. 2?",
     "options": {
-      "a": "Takie naruszenia automatycznie stają się naruszeniami z katalogu art. 3 ust. 1.",
-      "b": "Każde takie zgłoszenie musi zostać przekazane RPO w terminie 14 dni.",
-      "c": "Do takich zgłoszeń nie stosuje się żadnego przepisu ustawy.",
+      "a": "Takie naruszenia korzystają ze ścieżki zewnętrznej tylko wtedy, gdy sygnalista najpierw wykorzysta procedurę wewnętrzną.",
+      "b": "Takie zgłoszenie trzeba przekazać RPO, jeżeli podmiot nie podejmie działań następczych w terminie 3 miesięcy.",
+      "c": "Do takich zgłoszeń stosuje się rozdziały o zgłoszeniach zewnętrznych, ale nie stosuje się przepisów o ujawnieniu publicznym.",
       "d": "Do takich naruszeń nie stosuje się rozdziałów o zgłoszeniach zewnętrznych i ujawnieniu publicznym."
     },
     "correct_answers": [
@@ -69,9 +69,9 @@
     "text": "Która dziedzina jest ujęta w katalogu art. 3 ust. 1 w sposób najbardziej precyzyjny?",
     "options": {
       "a": "Bezpieczeństwo sieci i systemów teleinformatycznych.",
-      "b": "Wszystkie sprawy rodzinne pracowników.",
-      "c": "Ogólna kultura zarządzania w organizacji.",
-      "d": "Każde naruszenie umowy cywilnoprawnej między przedsiębiorcami."
+      "b": "Bezpieczeństwo informacji w rozumieniu każdej polityki wewnętrznej pracodawcy.",
+      "c": "Ochrona prywatności pracowników w zakresie wszystkich relacji interpersonalnych w zakładzie pracy.",
+      "d": "Naruszenie każdej umowy cywilnoprawnej, jeżeli jedna ze stron jest przedsiębiorcą."
     },
     "correct_answers": [
       "a"
@@ -81,10 +81,10 @@
     "id": 7,
     "text": "Naruszenie konstytucyjnych wolności i praw człowieka i obywatela mieści się w art. 3 ust. 1 pkt 17 tylko wtedy, gdy:",
     "options": {
-      "a": "zostało wcześniej stwierdzone przez Trybunał Konstytucyjny.",
-      "b": "jest równocześnie naruszeniem wewnętrznego regulaminu pracy.",
+      "a": "dotyczy działania organu władzy publicznej, ale tylko gdy równocześnie mieści się w jednej z dziedzin z pkt 1-16.",
+      "b": "dotyczy relacji z organem władzy publicznej, bez względu na to, czy mieści się już w pkt 1-16.",
       "c": "dotyczy relacji jednostki z organem władzy publicznej i nie jest związane z dziedzinami z pkt 1-16.",
-      "d": "dotyczy dowolnej relacji między pracownikami podmiotu prywatnego."
+      "d": "dotyczy każdego naruszenia konstytucyjnych praw w relacjach między podmiotami prywatnymi."
     },
     "correct_answers": [
       "c"
@@ -94,10 +94,10 @@
     "id": 8,
     "text": "Która informacja jest wyłączona spod ustawy niezależnie od tego, że może dotyczyć naruszenia prawa?",
     "options": {
-      "a": "Informacja o możliwej korupcji w zamówieniu publicznym.",
+      "a": "Informacja o możliwej korupcji w postępowaniu o udzielenie zamówienia publicznego.",
       "b": "Informacja objęta tajemnicą narady sędziowskiej.",
-      "c": "Informacja o bezpieczeństwie produktów.",
-      "d": "Informacja o ochronie konsumentów."
+      "c": "Informacja o naruszeniu wymogów bezpieczeństwa produktów, jeżeli zawiera dane osobowe.",
+      "d": "Informacja o naruszeniu praw konsumentów, jeżeli pochodzi z dokumentów wewnętrznych przedsiębiorcy."
     },
     "correct_answers": [
       "b"
@@ -107,10 +107,10 @@
     "id": 9,
     "text": "W zakresie postępowania karnego wyłączenie z art. 5 ust. 1 obejmuje:",
     "options": {
-      "a": "każdą informację związaną z jakimkolwiek postępowaniem karnym.",
-      "b": "wyłącznie dane osobowe oskarżonego.",
+      "a": "każdą informację z akt postępowania karnego, niezależnie od tego, czy jawność została wyłączona.",
+      "b": "tajemnicę postępowania przygotowawczego oraz dane osobowe podejrzanego, ale nie rozprawę sądową.",
       "c": "tajemnicę postępowania przygotowawczego oraz tajemnicę rozprawy sądowej prowadzonej z wyłączeniem jawności.",
-      "d": "wyłącznie informacje przekazane prokuratorowi przez pokrzywdzonego."
+      "d": "wyłącznie informacje objęte tajemnicą obrończą, jeżeli zostały ujawnione przez pełnomocnika."
     },
     "correct_answers": [
       "c"
@@ -120,10 +120,10 @@
     "id": 10,
     "text": "Zgłoszenie dotyczące naruszenia prawa przez służby specjalne w zakresie art. 5 ust. 4 powinien przyjąć:",
     "options": {
-      "a": "każdy organ publiczny właściwy miejscowo dla sygnalisty.",
+      "a": "RPO, chyba że sprawa dotyczy naruszeń bezpośrednio związanych z zadaniami służb specjalnych.",
       "b": "Prezes Rady Ministrów albo Minister - Koordynator Służb Specjalnych, jeżeli został powołany.",
-      "c": "wyłącznie Rzecznik Praw Obywatelskich.",
-      "d": "wyłącznie sąd administracyjny."
+      "c": "organ publiczny właściwy rzeczowo dla dziedziny naruszenia, po wcześniejszej konsultacji z RPO.",
+      "d": "Prokurator Generalny jako organ właściwy do wszystkich zgłoszeń dotyczących służb specjalnych."
     },
     "correct_answers": [
       "b"
@@ -134,9 +134,9 @@
     "text": "Który opis najtrafniej oddaje warunek ochrony z art. 6?",
     "options": {
       "a": "Sygnalista musi mieć uzasadnione podstawy sądzić, że informacja jest prawdziwa w chwili zgłoszenia lub ujawnienia i stanowi informację o naruszeniu prawa.",
-      "b": "Sygnalista musi udowodnić naruszenie przed dokonaniem zgłoszenia.",
-      "c": "Sygnalista musi działać wyłącznie za pośrednictwem pełnomocnika.",
-      "d": "Sygnalista musi najpierw wykorzystać wszystkie środki odwoławcze w organizacji."
+      "b": "Sygnalista musi wykazać wysokie prawdopodobieństwo naruszenia już na etapie przyjęcia zgłoszenia.",
+      "c": "Sygnalista korzysta z ochrony dopiero po potwierdzeniu naruszenia w działaniach następczych.",
+      "d": "Sygnalista musi mieć uzasadnione podstawy dopiero w chwili przekazania informacji zwrotnej."
     },
     "correct_answers": [
       "a"
@@ -146,10 +146,10 @@
     "id": 12,
     "text": "Podmiot przyjmuje anonimowe zgłoszenia. Który skutek jest prawidłowy?",
     "options": {
-      "a": "Anonimowe zgłoszenie jest zawsze nieważne.",
+      "a": "Ustawę stosuje się tylko w zakresie ochrony poufności, ale bez obowiązku prowadzenia rejestru.",
       "b": "Ustawę stosuje się do takiego zgłoszenia z wyjątkami wskazanymi w art. 7 ust. 3.",
-      "c": "Anonimowe zgłoszenie zawsze trzeba pozostawić bez rozpoznania.",
-      "d": "Anonimowe zgłoszenie może dotyczyć tylko korupcji."
+      "c": "Ustawę stosuje się w pełnym zakresie, tak jak przy zgłoszeniu z podanym adresem do kontaktu.",
+      "d": "Ustawę stosuje się tylko wtedy, gdy tożsamość sygnalisty zostanie później ustalona."
     },
     "correct_answers": [
       "b"
@@ -159,10 +159,10 @@
     "id": 13,
     "text": "Która teza o anonimowych zgłoszeniach najlepiej oddaje model przyjęty w ustawie?",
     "options": {
-      "a": "Anonimowo można dokonać tylko zgłoszenia wewnętrznego.",
-      "b": "Anonimowe zgłoszenia są dopuszczalne wyłącznie w sektorze publicznym.",
+      "a": "Anonimowe zgłoszenia może przyjmować tylko podmiot prawny, natomiast RPO i organ publiczny muszą wymagać adresu do kontaktu.",
+      "b": "Anonimowe zgłoszenia muszą być przyjmowane w zgłoszeniach zewnętrznych, ale mogą być wyłączone w procedurze wewnętrznej.",
       "c": "Podmiot prawny, RPO i organ publiczny mogą je przyjmować, ale ustawa nie ustanawia powszechnego bezwzględnego obowiązku ich przyjmowania.",
-      "d": "Każdy podmiot prawny ma obowiązek przyjmować je pod rygorem nieważności procedury."
+      "d": "Podmiot prawny musi je przyjmować, jeżeli zatrudnia co najmniej 50 osób, a organ publiczny może je odrzucać."
     },
     "correct_answers": [
       "c"
@@ -173,9 +173,9 @@
     "text": "Kiedy dane osobowe sygnalisty pozwalające ustalić jego tożsamość mogą być ujawnione bez jego wyraźnej zgody?",
     "options": {
       "a": "Gdy ujawnienie jest koniecznym i proporcjonalnym obowiązkiem wynikającym z prawa w związku z odpowiednimi postępowaniami, w tym dla prawa do obrony.",
-      "b": "Zawsze po zakończeniu działań następczych.",
-      "c": "Tylko wtedy, gdy sygnalista dokonał zgłoszenia anonimowo.",
-      "d": "Gdy wymaga tego przełożony osoby, której dotyczy zgłoszenie."
+      "b": "Gdy organ publiczny uzna, że ujawnienie przyspieszy działania następcze, nawet bez podstawy w przepisach prawa.",
+      "c": "Gdy osoba, której dotyczy zgłoszenie, wykaże interes prawny w poznaniu tożsamości sygnalisty.",
+      "d": "Gdy od dokonania zgłoszenia upłynęły 3 miesiące i przekazano informację zwrotną."
     },
     "correct_answers": [
       "a"
@@ -185,10 +185,10 @@
     "id": 15,
     "text": "Przed ujawnieniem danych sygnalisty na podstawie art. 8 ust. 2 właściwy organ lub sąd co do zasady:",
     "options": {
-      "a": "publikuje komunikat w Biuletynie Informacji Publicznej.",
-      "b": "uzyskuje zgodę osoby, której dotyczy zgłoszenie.",
+      "a": "zawiadamia RPO o zamiarze ujawnienia danych i czeka 7 dni na sprzeciw.",
+      "b": "uzyskuje zgodę osoby, której dotyczy zgłoszenie, jeżeli ujawnienie ma służyć prawu do obrony.",
       "c": "powiadamia sygnalistę i wyjaśnia powody ujawnienia, chyba że powiadomienie zagrozi postępowaniu.",
-      "d": "występuje o opinię RPO."
+      "d": "przekazuje sygnaliście wyłącznie informację o podstawie prawnej, już po dokonaniu ujawnienia."
     },
     "correct_answers": [
       "c"
@@ -198,9 +198,9 @@
     "id": 16,
     "text": "Dane osobowe przypadkowo zebrane, które nie mają znaczenia dla rozpatrywania zgłoszenia, powinny zostać usunięte:",
     "options": {
-      "a": "dopiero po upływie 3 lat od końca roku kalendarzowego.",
-      "b": "po zakończeniu wszystkich postępowań sądowych, bez względu na ich znaczenie.",
-      "c": "wyłącznie na pisemny wniosek sygnalisty.",
+      "a": "po upływie 3 lat od końca roku kalendarzowego, w którym zakończono działania następcze.",
+      "b": "niezwłocznie, ale dopiero po przekazaniu sygnaliście informacji zwrotnej.",
+      "c": "w terminie 30 dni od ich przypadkowego zebrania, niezależnie od ustalenia ich znaczenia.",
       "d": "w terminie 14 dni od chwili ustalenia, że nie mają znaczenia dla sprawy."
     },
     "correct_answers": [
@@ -211,10 +211,10 @@
     "id": 17,
     "text": "Które dane związane ze zgłoszeniem wewnętrznym lub działaniami następczymi są co do zasady przechowywane przez podmiot prawny przez 3 lata po zakończeniu właściwego roku kalendarzowego?",
     "options": {
-      "a": "Wyłącznie dane sygnalisty, ale nie dokumenty zgłoszenia.",
+      "a": "Dane osobowe i dokumenty związane ze zgłoszeniem, ale tylko do chwili przekazania informacji zwrotnej.",
       "b": "Dane osobowe i dokumenty związane ze zgłoszeniem, chyba że dokumenty stanowią część akt postępowań przygotowawczych, sądowych lub sądowoadministracyjnych.",
-      "c": "Wszystkie dane osobowe z akt pracowniczych sygnalisty.",
-      "d": "Tylko metadane techniczne kanału zgłoszeń."
+      "c": "Dane z rejestru zgłoszeń wewnętrznych, lecz bez dokumentów związanych z działaniami następczymi.",
+      "d": "Wyłącznie dane kontaktowe sygnalisty oraz data dokonania zgłoszenia."
     },
     "correct_answers": [
       "b"
@@ -224,9 +224,9 @@
     "id": 18,
     "text": "Ochrona osób pomagających w dokonaniu zgłoszenia i osób powiązanych z sygnalistą działa w ustawie przede wszystkim przez:",
     "options": {
-      "a": "prawo do decydowania o dalszym biegu zgłoszenia.",
-      "b": "obowiązek wydania im decyzji administracyjnej przez pracodawcę.",
-      "c": "automatyczne nadanie im statusu organu publicznego.",
+      "a": "przyznanie im samodzielnego prawa do informacji zwrotnej w każdej procedurze.",
+      "b": "nadanie im statusu uczestnika postępowania prowadzonego przez organ publiczny.",
+      "c": "objęcie ich ochroną tylko wtedy, gdy same dokonają odrębnego zgłoszenia.",
       "d": "odpowiednie stosowanie przepisów o zakazie działań odwetowych."
     },
     "correct_answers": [
@@ -237,9 +237,9 @@
     "id": 19,
     "text": "Które działanie może być kwalifikowane jako odwetowe również wtedy, gdy ma postać próby albo groźby?",
     "options": {
-      "a": "Przekazanie potwierdzenia przyjęcia zgłoszenia w terminie 7 dni.",
-      "b": "Zamknięcie procedury po przeprowadzeniu działań następczych.",
-      "c": "Neutralne pouczenie o sposobie korzystania z procedury.",
+      "a": "Odmowa przekazania informacji zwrotnej, jeżeli sygnalista nie podał adresu do kontaktu.",
+      "b": "Zmiana zakresu obowiązków uzasadniona obiektywną reorganizacją, bez związku ze zgłoszeniem.",
+      "c": "Wszczęcie czynności wyjaśniających wobec osoby, której dotyczy zgłoszenie.",
       "d": "Wszczęcie postępowania dyscyplinarnego lub zastosowanie kary finansowej z powodu zgłoszenia."
     },
     "correct_answers": [
@@ -250,10 +250,10 @@
     "id": 20,
     "text": "Która sytuacja najlepiej oddaje różnicę między art. 14 i art. 15?",
     "options": {
-      "a": "Art. 14 i art. 15 przewidują tę samą minimalną kwotę odszkodowania.",
-      "b": "Art. 15 dotyczy tylko zgłoszeń anonimowych.",
+      "a": "Art. 14 i art. 15 przewidują roszczenia po działaniach odwetowych, ale różnią się terminem przedawnienia.",
+      "b": "Art. 15 dotyczy odpowiedzialności sygnalisty wyłącznie wtedy, gdy działał anonimowo.",
       "c": "Art. 14 dotyczy roszczeń sygnalisty po działaniach odwetowych, a art. 15 roszczeń osoby poszkodowanej świadomie nieprawdziwym zgłoszeniem lub ujawnieniem.",
-      "d": "Art. 14 dotyczy wyłącznie osób prawnych, a art. 15 wyłącznie pracowników."
+      "d": "Art. 14 dotyczy tylko odszkodowania, a art. 15 tylko obowiązku sprostowania informacji."
     },
     "correct_answers": [
       "c"
@@ -264,9 +264,9 @@
     "text": "Klauzula w umowie B2B pośrednio ogranicza prawo do zgłoszenia i przewiduje sankcję kontraktową za kontakt z organem publicznym. Jaka jest jej ocena na gruncie ustawy?",
     "options": {
       "a": "Jest nieważna w zakresie, w jakim ogranicza prawo do zgłoszenia lub przewiduje środki odwetowe.",
-      "b": "Jest ważna, jeśli sygnalista podpisał ją dobrowolnie.",
-      "c": "Jest nieważna tylko po wydaniu decyzji przez RPO.",
-      "d": "Jest ważna, bo art. 19 dotyczy wyłącznie umów o pracę."
+      "b": "Jest ważna, jeżeli ogranicza wyłącznie zgłoszenie zewnętrzne, a pozostawia możliwość zgłoszenia wewnętrznego.",
+      "c": "Jest bezskuteczna dopiero po stwierdzeniu naruszenia prawa przez organ publiczny.",
+      "d": "Jest nieważna tylko w umowie o pracę, a w umowie B2B wymaga oceny na zasadach ogólnych."
     },
     "correct_answers": [
       "a"
@@ -276,9 +276,9 @@
     "id": 22,
     "text": "Który zestaw najlepiej opisuje działanie następcze?",
     "options": {
-      "a": "Wyłącznie czynność procesowa prokuratora.",
-      "b": "Wyłącznie przekazanie informacji zwrotnej sygnaliście.",
-      "c": "Każde działanie kadrowe wobec sygnalisty po zgłoszeniu.",
+      "a": "Czynność organu publicznego podejmowana dopiero po przekazaniu informacji zwrotnej sygnaliście.",
+      "b": "Każda czynność zmierzająca do ustalenia danych sygnalisty i osoby, której dotyczy zgłoszenie.",
+      "c": "Wyłącznie postępowanie wyjaśniające albo kontrola, bez możliwości zamknięcia procedury.",
       "d": "Działanie służące ocenie prawdziwości informacji i przeciwdziałaniu naruszeniu, np. postępowanie wyjaśniające, kontrola, oskarżenie, odzyskanie środków lub zamknięcie procedury."
     },
     "correct_answers": [
@@ -289,10 +289,10 @@
     "id": 23,
     "text": "Podmiot prawny ustala, czy osiąga próg 50 osób. Które osoby należy uwzględnić poza pracownikami w przeliczeniu na pełne etaty?",
     "options": {
-      "a": "Wyłącznie członków zarządu i rady nadzorczej.",
-      "b": "Tylko osoby zatrudnione na umowę o dzieło.",
+      "a": "Osoby wykonujące pracę na innej podstawie niż stosunek pracy, ale tylko po przeliczeniu ich czasu pracy na pełne etaty.",
+      "b": "Osoby świadczące pracę za wynagrodzeniem na innej podstawie niż stosunek pracy, niezależnie od tego, czy zatrudniają inne osoby do tej pracy.",
       "c": "Osoby świadczące pracę za wynagrodzeniem na innej podstawie niż stosunek pracy, jeżeli nie zatrudniają do tego rodzaju pracy innych osób.",
-      "d": "Każdego kontrahenta podmiotu, niezależnie od charakteru współpracy."
+      "d": "Wszystkich stałych kontrahentów, jeżeli wykonują usługi na rzecz podmiotu przez co najmniej 6 miesięcy."
     },
     "correct_answers": [
       "c"
@@ -302,10 +302,10 @@
     "id": 24,
     "text": "Próg 50 osób nie ma zastosowania do niektórych podmiotów wykonujących działalność objętą aktami UE z załącznika do dyrektywy. Który zestaw odpowiada art. 23 ust. 3?",
     "options": {
-      "a": "Każda działalność gospodarcza prowadzona w formie spółki kapitałowej.",
-      "b": "Wyłącznie sektor bankowy i ubezpieczeniowy.",
+      "a": "Usługi finansowe i AML/CFT, ale tylko przy zatrudnieniu co najmniej 10 osób.",
+      "b": "Bezpieczeństwo transportu i ochrona środowiska, ale wyłącznie w sektorze publicznym.",
       "c": "Usługi finansowe, AML/CFT, bezpieczeństwo transportu i ochrona środowiska.",
-      "d": "Handel detaliczny, edukacja prywatna, usługi hotelarskie i sport."
+      "d": "Wszystkie podmioty wykonujące działalność regulowaną albo objętą koncesją."
     },
     "correct_answers": [
       "c"
@@ -315,10 +315,10 @@
     "id": 25,
     "text": "W jednostce samorządu terytorialnego obowiązki podmiotu prawnego z rozdziału o zgłoszeniach wewnętrznych zasadniczo wykonują:",
     "options": {
-      "a": "wyłącznie organ stanowiący JST.",
+      "a": "organ wykonawczy JST, który prowadzi jedną wspólną procedurę dla wszystkich jednostek organizacyjnych.",
       "b": "jednostki organizacyjne JST, z wyjątkiem art. 28 ust. 5.",
-      "c": "wyłącznie Rzecznik Praw Obywatelskich.",
-      "d": "spółki komunalne niezależnie od zakresu zadań."
+      "c": "urząd obsługujący organ JST, ale tylko w zakresie rejestru zgłoszeń zewnętrznych.",
+      "d": "spółki komunalne wykonujące zadania własne JST, niezależnie od ich statusu prawnego."
     },
     "correct_answers": [
       "b"
@@ -329,9 +329,9 @@
     "text": "Które jednostki organizacyjne są wyłączone z obowiązków rozdziału o zgłoszeniach wewnętrznych na podstawie art. 23 ust. 5?",
     "options": {
       "a": "Jednostki organizacyjne gminy lub powiatu liczących mniej niż 10 000 mieszkańców.",
-      "b": "Wszystkie jednostki organizacyjne województwa.",
-      "c": "Jednostki zatrudniające mniej niż 250 osób, bez względu na liczbę mieszkańców.",
-      "d": "Wszystkie jednostki sektora finansów publicznych."
+      "b": "Jednostki organizacyjne JST zatrudniające mniej niż 50 osób, niezależnie od liczby mieszkańców.",
+      "c": "Jednostki organizacyjne wszystkich gmin, jeżeli obsługują je wspólne kanały zgłoszeń.",
+      "d": "Jednostki organizacyjne gmin i powiatów liczących mniej niż 50 000 mieszkańców."
     },
     "correct_answers": [
       "a"
@@ -341,10 +341,10 @@
     "id": 27,
     "text": "Podmiot zatrudnia 38 osób i nie należy do sektorów objętych wyłączeniem progu. Co może zrobić z procedurą zgłoszeń wewnętrznych?",
     "options": {
-      "a": "Może ją ustalić tylko za zgodą organu publicznego.",
-      "b": "Nie może jej ustalić, bo ustawa zabrania procedur poniżej progu.",
+      "a": "Może ją ustalić tylko wtedy, gdy wykonuje działalność w jednej z dziedzin z art. 23 ust. 3.",
+      "b": "Może ją ustalić dopiero po przekroczeniu progu w kolejnym dniu 1 stycznia albo 1 lipca.",
       "c": "Może ją ustalić dobrowolnie.",
-      "d": "Musi ją ustalić w ciągu 7 dni od rozpoczęcia działalności."
+      "d": "Musi ją ustalić, jeżeli choć jedna osoba świadczy pracę na podstawie umowy cywilnoprawnej."
     },
     "correct_answers": [
       "c"
@@ -354,10 +354,10 @@
     "id": 28,
     "text": "Jeżeli w podmiocie działa więcej niż jedna zakładowa organizacja związkowa, procedura zgłoszeń wewnętrznych jest ustalana po konsultacjach z:",
     "options": {
-      "a": "wyłącznie największą organizacją związkową.",
+      "a": "reprezentatywną zakładową organizacją związkową, a pozostałe organizacje jedynie zawiadamia.",
       "b": "zakładową organizacją związkową albo zakładowymi organizacjami związkowymi.",
-      "c": "wyłącznie przedstawicielami osób świadczących pracę, nawet gdy związki działają.",
-      "d": "Rzecznikiem Praw Obywatelskich."
+      "c": "przedstawicielami osób świadczących pracę, nawet jeżeli w podmiocie działają organizacje związkowe.",
+      "d": "radą pracowników albo przedstawicielami pracowników wyłącznie wtedy, gdy związki nie zgłoszą uwag."
     },
     "correct_answers": [
       "b"
@@ -367,9 +367,9 @@
     "id": 29,
     "text": "Jak długo trwają konsultacje projektu procedury zgłoszeń wewnętrznych?",
     "options": {
-      "a": "Zawsze dokładnie 14 dni od publikacji w BIP.",
-      "b": "Do czasu uzyskania jednomyślnej zgody wszystkich pracowników.",
-      "c": "Nie dłużej niż 3 dni robocze.",
+      "a": "Nie krócej niż 7 dni i nie dłużej niż 14 dni od przedstawienia projektu.",
+      "b": "Nie krócej niż 5 dni roboczych i nie dłużej niż 10 dni roboczych od publikacji projektu.",
+      "c": "Do dnia uzgodnienia procedury, lecz nie dłużej niż 30 dni od przedstawienia projektu.",
       "d": "Nie krócej niż 5 dni i nie dłużej niż 10 dni od przedstawienia projektu."
     },
     "correct_answers": [
@@ -381,9 +381,9 @@
     "text": "Procedura zgłoszeń wewnętrznych wchodzi w życie:",
     "options": {
       "a": "po upływie 7 dni od podania jej do wiadomości osób wykonujących pracę w sposób przyjęty w podmiocie.",
-      "b": "dopiero po zatwierdzeniu przez RPO.",
-      "c": "po upływie 30 dni od przekazania jej organowi publicznemu.",
-      "d": "w dniu podpisania przez zarząd."
+      "b": "po zakończeniu konsultacji, jeżeli trwały co najmniej 5 dni.",
+      "c": "po upływie 7 dni od zatwierdzenia projektu przez organizację związkową albo przedstawicieli pracowników.",
+      "d": "w dniu podania jej do wiadomości, jeżeli przewiduje wyłącznie zgłoszenia imienne."
     },
     "correct_answers": [
       "a"
@@ -393,9 +393,9 @@
     "id": 31,
     "text": "Kandydat do pracy powinien otrzymać informację o procedurze zgłoszeń wewnętrznych:",
     "options": {
-      "a": "wyłącznie na pisemny wniosek.",
-      "b": "najpóźniej przy rozwiązaniu umowy.",
-      "c": "dopiero po zakończeniu okresu próbnego.",
+      "a": "najpóźniej przed dopuszczeniem do wykonywania pracy albo usług.",
+      "b": "po zawarciu umowy, ale przed rozpoczęciem wykonywania obowiązków.",
+      "c": "wraz z pierwszą informacją zwrotną dotyczącą zgłoszenia wewnętrznego.",
       "d": "wraz z rozpoczęciem rekrutacji lub negocjacji poprzedzających zawarcie umowy."
     },
     "correct_answers": [
@@ -407,9 +407,9 @@
     "text": "Który element procedury zgłoszeń wewnętrznych jest obowiązkowy, a nie fakultatywny?",
     "options": {
       "a": "Maksymalny termin przekazania informacji zwrotnej sygnaliście.",
-      "b": "Wskazanie, że zgłoszenie można zawsze złożyć bezpośrednio do RPO albo organu publicznego.",
-      "c": "System zachęt do korzystania z procedury wewnętrznej.",
-      "d": "Czynniki ryzyka odpowiadające profilowi działalności podmiotu."
+      "b": "Wskazanie, że zgłoszenie może w każdym przypadku zostać złożone bezpośrednio do RPO albo organu publicznego.",
+      "c": "Określenie systemu zachęt do korzystania z procedury wewnętrznej.",
+      "d": "Wskazanie czynników ryzyka odpowiadających profilowi działalności podmiotu prawnego."
     },
     "correct_answers": [
       "a"
@@ -419,10 +419,10 @@
     "id": 33,
     "text": "Procedura wewnętrzna może wskazać jednostkę albo osobę odpowiedzialną jednocześnie za przyjmowanie zgłoszeń i działania następcze, jeżeli:",
     "options": {
-      "a": "zgłoszenia są wyłącznie anonimowe.",
+      "a": "zgłoszenia przyjmowane są wyłącznie przez podmiot zewnętrzny działający na podstawie umowy.",
       "b": "zapewniona jest bezstronność.",
-      "c": "sygnalista wyrazi zgodę po dokonaniu zgłoszenia.",
-      "d": "organ publiczny zatwierdzi procedurę."
+      "c": "procedura przewiduje potwierdzenie przyjęcia zgłoszenia w terminie krótszym niż 7 dni.",
+      "d": "ta jednostka nie prowadzi rejestru zgłoszeń wewnętrznych."
     },
     "correct_answers": [
       "b"
@@ -432,10 +432,10 @@
     "id": 34,
     "text": "Potwierdzenie przyjęcia zgłoszenia wewnętrznego powinno nastąpić w terminie 7 dni od otrzymania zgłoszenia, chyba że:",
     "options": {
-      "a": "zgłoszenie zostało złożone ustnie.",
-      "b": "podmiot zatrudnia mniej niż 250 osób.",
+      "a": "zgłoszenie zostało dokonane ustnie i wymaga najpierw sporządzenia protokołu.",
+      "b": "podmiot powierzył przyjmowanie zgłoszeń podmiotowi zewnętrznemu.",
       "c": "sygnalista nie podał adresu do kontaktu, na który należy przekazać potwierdzenie.",
-      "d": "zgłoszenie dotyczy członka zarządu."
+      "d": "zgłoszenie dotyczy osoby kierującej jednostką upoważnioną do przyjmowania zgłoszeń."
     },
     "correct_answers": [
       "c"
@@ -446,9 +446,9 @@
     "text": "Jeżeli przy zgłoszeniu wewnętrznym nie przekazano potwierdzenia przyjęcia, maksymalny termin informacji zwrotnej liczy się:",
     "options": {
       "a": "od upływu 7 dni od dnia dokonania zgłoszenia.",
-      "b": "od dnia pierwszego posiedzenia komisji wyjaśniającej.",
-      "c": "od dnia wpisu do rejestru zgłoszeń.",
-      "d": "od dnia zakończenia postępowania wyjaśniającego."
+      "b": "od dnia dokonania wpisu do rejestru zgłoszeń wewnętrznych.",
+      "c": "od dnia podjęcia pierwszej czynności następczej.",
+      "d": "od dnia, w którym sygnalista ponownie zażądał informacji zwrotnej."
     },
     "correct_answers": [
       "a"
@@ -458,10 +458,10 @@
     "id": 36,
     "text": "Która informacja w procedurze wewnętrznej jest fakultatywna według art. 25 ust. 2?",
     "options": {
-      "a": "Obowiązek potwierdzenia przyjęcia zgłoszenia.",
+      "a": "Obowiązek potwierdzenia przyjęcia zgłoszenia, jeżeli sygnalista podał adres do kontaktu.",
       "b": "Określenie systemu zachęt do korzystania z procedury wewnętrznej.",
-      "c": "Tryb postępowania ze zgłoszeniami anonimowymi.",
-      "d": "Sposoby przekazywania zgłoszeń wewnętrznych."
+      "c": "Tryb postępowania z informacjami o naruszeniach prawa zgłoszonymi anonimowo.",
+      "d": "Sposoby przekazywania zgłoszeń wewnętrznych przez sygnalistę."
     },
     "correct_answers": [
       "b"
@@ -471,9 +471,9 @@
     "id": 37,
     "text": "Które stwierdzenie o zgłoszeniu wewnętrznym ustnym jest prawidłowe?",
     "options": {
-      "a": "Jest dopuszczalne tylko w obecności notariusza.",
-      "b": "Nie wymaga żadnego utrwalenia ani protokołu.",
-      "c": "Jest dopuszczalne wyłącznie, gdy zgłoszenie jest anonimowe.",
+      "a": "Może być dokonane ustnie, ale tylko w obecności osoby upoważnionej do działań następczych.",
+      "b": "Może być dokonane telefonicznie, natomiast spotkanie bezpośrednie wymaga zgody podmiotu prawnego.",
+      "c": "Może być dokonane ustnie wyłącznie wtedy, gdy procedura wewnętrzna dopuszcza zgłoszenia anonimowe.",
       "d": "Może być dokonane telefonicznie lub za pomocą środków komunikacji elektronicznej, a na wniosek sygnalisty także podczas bezpośredniego spotkania."
     },
     "correct_answers": [
@@ -484,10 +484,10 @@
     "id": 38,
     "text": "Na wniosek sygnalisty bezpośrednie spotkanie w celu dokonania zgłoszenia wewnętrznego organizuje się w terminie:",
     "options": {
-      "a": "7 dni od otrzymania wniosku.",
+      "a": "7 dni od otrzymania wniosku, tak jak przy potwierdzeniu przyjęcia zgłoszenia.",
       "b": "14 dni od otrzymania wniosku.",
-      "c": "miesiąca od otrzymania wniosku.",
-      "d": "3 miesięcy od otrzymania wniosku."
+      "c": "miesiąca od otrzymania wniosku, analogicznie jak przy zaświadczeniu o ochronie.",
+      "d": "3 miesięcy od otrzymania wniosku, chyba że procedura przewiduje termin krótszy."
     },
     "correct_answers": [
       "b"
@@ -497,10 +497,10 @@
     "id": 39,
     "text": "Nagranie rozmowy lub spotkania przy zgłoszeniu ustnym jest dopuszczalne, gdy:",
     "options": {
-      "a": "nagranie następuje zawsze automatycznie, bez informowania sygnalisty.",
-      "b": "organ publiczny zatwierdzi sprzęt nagrywający.",
+      "a": "osoba przyjmująca zgłoszenie uprzednio poinformuje sygnalistę o formie utrwalenia, ale zgoda nie jest wymagana.",
+      "b": "procedura wewnętrzna przewiduje nagrywanie jako podstawowy sposób dokumentowania zgłoszeń ustnych.",
       "c": "sygnalista wyrazi na to zgodę.",
-      "d": "osoba, której dotyczy zgłoszenie, wyrazi na to zgodę."
+      "d": "zamiast nagrania sporządzany jest protokół rozmowy zatwierdzany przez sygnalistę."
     },
     "correct_answers": [
       "c"
@@ -511,9 +511,9 @@
     "text": "Jeżeli zgłoszenie ustne nie jest nagrywane, jego udokumentowanie powinno nastąpić w formie:",
     "options": {
       "a": "protokołu rozmowy odtwarzającego jej dokładny przebieg, z możliwością sprawdzenia, poprawienia i zatwierdzenia przez sygnalistę.",
-      "b": "wyłącznie wpisu do rejestru bez treści zgłoszenia.",
-      "c": "oświadczenia osoby, której dotyczy zgłoszenie.",
-      "d": "notatki urzędowej bez prawa sygnalisty do weryfikacji."
+      "b": "notatki służbowej sporządzonej przez osobę przyjmującą zgłoszenie, jeżeli zawiera datę i przedmiot zgłoszenia.",
+      "c": "wpisu do rejestru zgłoszeń wewnętrznych, jeżeli obejmuje numer zgłoszenia i datę wpływu.",
+      "d": "protokołu sporządzonego po zakończeniu działań następczych, bez udziału sygnalisty."
     },
     "correct_answers": [
       "a"
@@ -524,9 +524,9 @@
     "text": "Upoważnienie podmiotu zewnętrznego do obsługi zgłoszeń wewnętrznych wymaga umowy określającej m.in.:",
     "options": {
       "a": "powierzenie przetwarzania danych osobowych, rozwiązania techniczne i organizacyjne, zakres zadań oraz poufność.",
-      "b": "wyłącznie wysokość wynagrodzenia podmiotu zewnętrznego.",
-      "c": "zgodę wszystkich pracowników na outsourcing procedury.",
-      "d": "obowiązek przejęcia przez podmiot zewnętrzny pełnej odpowiedzialności ustawowej."
+      "b": "wyłącznie zakres czynności przyjmowania zgłoszeń, ponieważ działania następcze zawsze pozostają wewnątrz podmiotu prawnego.",
+      "c": "przejęcie przez podmiot zewnętrzny obowiązku prowadzenia rejestru jako administrator danych.",
+      "d": "zgodę zakładowej organizacji związkowej na korzystanie z obsługi zewnętrznej."
     },
     "correct_answers": [
       "a"
@@ -536,10 +536,10 @@
     "id": 42,
     "text": "Powierzenie obsługi zgłoszeń podmiotowi zewnętrznemu oznacza, że:",
     "options": {
-      "a": "sygnalista musi zawsze kontaktować się wyłącznie z podmiotem zewnętrznym.",
+      "a": "podmiot prawny odpowiada tylko za działania następcze, a poufność i informacja zwrotna obciążają podmiot zewnętrzny.",
       "b": "podmiot prawny pozostaje odpowiedzialny za dochowanie obowiązków ustawowych, w szczególności poufność, informację zwrotną i działania następcze.",
-      "c": "podmiot prawny traci obowiązek prowadzenia rejestru zgłoszeń.",
-      "d": "podmiot zewnętrzny staje się organem publicznym."
+      "c": "podmiot zewnętrzny staje się samodzielnym administratorem danych z rejestru zgłoszeń wewnętrznych.",
+      "d": "podmiot prawny może zrezygnować z własnych upoważnień do przetwarzania danych w sprawach zgłoszeń."
     },
     "correct_answers": [
       "b"
@@ -549,10 +549,10 @@
     "id": 43,
     "text": "Wspólna procedura zgłoszeń wewnętrznych może być ustalona przez podmioty prywatne, jeżeli:",
     "options": {
-      "a": "należą do jakiejkolwiek grupy kapitałowej, bez limitu zatrudnienia.",
-      "b": "uzyskały zgodę RPO.",
+      "a": "należą do jednej grupy kapitałowej i każdy z nich zatrudnia mniej niż 250 osób.",
+      "b": "każdy z nich zatrudnia mniej niż 50 osób, ale dobrowolnie przyjął procedurę.",
       "c": "każdy z nich zatrudnia co najmniej 50, lecz nie więcej niż 249 osób.",
-      "d": "każdy z nich zatrudnia co najmniej 250 osób."
+      "d": "co najmniej jeden z nich zatrudnia 250 osób, a pozostałe należą do tej samej grupy."
     },
     "correct_answers": [
       "c"
@@ -563,9 +563,9 @@
     "text": "Który element należy do rejestru zgłoszeń wewnętrznych?",
     "options": {
       "a": "Numer zgłoszenia, przedmiot naruszenia, dane niezbędne do identyfikacji sygnalisty i osoby, której dotyczy zgłoszenie, adres do kontaktu, data zgłoszenia, działania następcze i data zakończenia sprawy.",
-      "b": "Wyłącznie imię i nazwisko sygnalisty oraz numer telefonu.",
-      "c": "Wyłącznie data zgłoszenia i podpis członka zarządu.",
-      "d": "Treść wszystkich rozmów pracowników z działem HR."
+      "b": "Numer zgłoszenia, przedmiot naruszenia, adres do kontaktu oraz pełną treść wszystkich dowodów zebranych w postępowaniu.",
+      "c": "Numer zgłoszenia, datę zgłoszenia i informację zwrotną, ale bez danych osoby, której dotyczy zgłoszenie.",
+      "d": "Dane sygnalisty i osoby, której dotyczy zgłoszenie, ale bez informacji o działaniach następczych."
     },
     "correct_answers": [
       "a"
@@ -575,9 +575,9 @@
     "id": 45,
     "text": "Dane osobowe i pozostałe informacje w rejestrze zgłoszeń wewnętrznych przechowuje się:",
     "options": {
-      "a": "do chwili przekazania informacji zwrotnej.",
-      "b": "bezterminowo.",
-      "c": "przez 12 miesięcy od dnia zgłoszenia.",
+      "a": "przez 3 lata od dnia dokonania zgłoszenia, niezależnie od daty zakończenia działań następczych.",
+      "b": "przez 12 miesięcy po zakończeniu roku kalendarzowego, w którym przekazano zgłoszenie do RPO.",
+      "c": "do dnia przekazania sygnaliście informacji zwrotnej, chyba że zgłoszenie było anonimowe.",
       "d": "przez 3 lata po zakończeniu roku kalendarzowego, w którym zakończono działania następcze albo po zakończeniu postępowań zainicjowanych tymi działaniami."
     },
     "correct_answers": [
@@ -588,10 +588,10 @@
     "id": 46,
     "text": "Które stwierdzenie o zgłoszeniu zewnętrznym jest prawidłowe?",
     "options": {
-      "a": "Przyjmuje je wyłącznie RPO, nigdy organ publiczny.",
-      "b": "Jest dopuszczalne tylko w formie papierowej.",
+      "a": "Wymaga wcześniejszego zgłoszenia wewnętrznego, chyba że naruszenie dotyczy interesu publicznego.",
+      "b": "Można go dokonać bezpośrednio do RPO, ale do organu publicznego dopiero po procedurze wewnętrznej.",
       "c": "Można go dokonać bez uprzedniego zgłoszenia wewnętrznego.",
-      "d": "Można go dokonać wyłącznie po odmowie przyjęcia zgłoszenia wewnętrznego."
+      "d": "Jest dopuszczalne bez zgłoszenia wewnętrznego tylko wtedy, gdy procedura wewnętrzna nie została ustanowiona."
     },
     "correct_answers": [
       "c"
@@ -601,10 +601,10 @@
     "id": 47,
     "text": "RPO i organ publiczny w zakresie danych osobowych podanych w przyjętym zgłoszeniu zewnętrznym są:",
     "options": {
-      "a": "współadministratorami w każdej sprawie.",
+      "a": "współadministratorami, jeżeli RPO przekazuje zgłoszenie organowi publicznemu.",
       "b": "odrębnymi administratorami.",
-      "c": "wyłącznie podmiotami przetwarzającymi na zlecenie sygnalisty.",
-      "d": "administratorami tylko wtedy, gdy zgłoszenie jest anonimowe."
+      "c": "administratorami kolejno: RPO do chwili przekazania, a organ publiczny po przekazaniu.",
+      "d": "podmiotami przetwarzającymi na podstawie ustawowego powierzenia przez sygnalistę."
     },
     "correct_answers": [
       "b"
@@ -614,9 +614,9 @@
     "id": 48,
     "text": "Wstępna weryfikacja zgłoszenia zewnętrznego przez RPO polega na:",
     "options": {
-      "a": "przeprowadzeniu pełnego postępowania dowodowego i wymierzeniu kary.",
-      "b": "sprawdzeniu wyłącznie danych osobowych sygnalisty.",
-      "c": "rozstrzygnięciu sporu cywilnego między sygnalistą a pracodawcą.",
+      "a": "ustaleniu, czy zgłoszenie jest zasadne, oraz wydaniu wiążącego zalecenia organowi publicznemu.",
+      "b": "zbadaniu, czy sygnalista najpierw wyczerpał procedurę zgłoszeń wewnętrznych.",
+      "c": "ustaleniu właściwego trybu skargowego z KPA, jeżeli sprawa dotyczy organu administracji.",
       "d": "ustaleniu, czy zgłoszenie dotyczy informacji o naruszeniu prawa, oraz zidentyfikowaniu organu publicznego właściwego do działań następczych."
     },
     "correct_answers": [
@@ -627,10 +627,10 @@
     "id": 49,
     "text": "Jeżeli zgłoszenie zewnętrzne do RPO dotyczy informacji o naruszeniu prawa, RPO przekazuje je właściwemu organowi publicznemu:",
     "options": {
-      "a": "w terminie 3 miesięcy od potwierdzenia przyjęcia.",
-      "b": "wyłącznie po uzyskaniu zgody sygnalisty.",
+      "a": "w terminie 7 dni od przyjęcia zgłoszenia, chyba że sygnalista nie podał adresu do kontaktu.",
+      "b": "niezwłocznie, ale dopiero po zakończeniu wstępnej weryfikacji przez organ publiczny.",
       "c": "niezwłocznie, nie później niż w terminie 14 dni od dokonania zgłoszenia.",
-      "d": "w terminie 7 dni od zakończenia roku kalendarzowego."
+      "d": "w terminie 30 dni od dokonania zgłoszenia, jeżeli sprawa wymaga ustalenia właściwego organu."
     },
     "correct_answers": [
       "c"
@@ -640,10 +640,10 @@
     "id": 50,
     "text": "RPO odstępuje od przekazania zgłoszenia zewnętrznego, gdy:",
     "options": {
-      "a": "zgłoszenie dotyczy zamówień publicznych.",
+      "a": "zgłoszenie dotyczy naruszenia prawa w dziedzinie należącej do właściwości organu publicznego.",
       "b": "zgłoszenie nie dotyczy informacji o naruszeniu prawa.",
-      "c": "zgłoszenie dotyczy podmiotu prywatnego.",
-      "d": "sygnalista wcześniej nie dokonał zgłoszenia wewnętrznego."
+      "c": "sygnalista nie podał adresu do kontaktu, a RPO nie może go ustalić.",
+      "d": "sygnalista nie dokonał wcześniej zgłoszenia wewnętrznego."
     },
     "correct_answers": [
       "b"
@@ -653,10 +653,10 @@
     "id": 51,
     "text": "Pouczenie RPO, że sprawa może podlegać rozpatrzeniu w innym trybie, np. skargi lub powództwa, powoduje:",
     "options": {
-      "a": "obowiązek wniesienia skargi w terminie 7 dni.",
+      "a": "rozpoczęcie biegu terminów do wniesienia właściwego środka prawnego od dnia pouczenia.",
       "b": "brak wpływu na dopuszczalność późniejszego środka prawnego, bieg terminów oraz sposób rozstrzygnięcia.",
-      "c": "automatyczne wszczęcie postępowania sądowego.",
-      "d": "zawieszenie wszystkich terminów procesowych."
+      "c": "przekształcenie zgłoszenia zewnętrznego w skargę, wniosek albo petycję.",
+      "d": "obowiązek RPO przekazania sprawy organowi właściwemu dla tego innego trybu."
     },
     "correct_answers": [
       "b"
@@ -666,9 +666,9 @@
     "id": 52,
     "text": "Organ publiczny, który otrzymał zgłoszenie zewnętrzne nienależące do jego zakresu działania, przekazuje je właściwemu organowi:",
     "options": {
-      "a": "zawsze w terminie 3 miesięcy od dnia przyjęcia zgłoszenia.",
-      "b": "wyłącznie po otrzymaniu ponaglenia od RPO.",
-      "c": "dopiero po zakończeniu własnego postępowania wyjaśniającego.",
+      "a": "w terminie 14 dni od przyjęcia zgłoszenia, a w uzasadnionych przypadkach w terminie 3 miesięcy.",
+      "b": "w terminie 7 dni od przyjęcia zgłoszenia, jeżeli sygnalista podał adres do kontaktu.",
+      "c": "niezwłocznie po uzyskaniu zgody sygnalisty na przekazanie danych osobowych.",
       "d": "niezwłocznie, nie później niż w 14 dni, a w uzasadnionych przypadkach nie później niż w 30 dni od dokonania zgłoszenia."
     },
     "correct_answers": [
@@ -679,10 +679,10 @@
     "id": 53,
     "text": "Gdy informacja o naruszeniu jest jednocześnie zgłoszeniem zewnętrznym i skargą z art. 227 KPA, stosuje się:",
     "options": {
-      "a": "jednocześnie oba tryby w pełnym zakresie.",
-      "b": "żaden tryb, jeżeli sygnalista nie wskaże podstawy prawnej.",
+      "a": "przepisy KPA do chwili wstępnej weryfikacji, a następnie przepisy rozdziału o zgłoszeniach zewnętrznych.",
+      "b": "tryb wybrany przez organ publiczny po ocenie, który jest korzystniejszy dla sygnalisty.",
       "c": "wyłącznie przepisy rozdziału o zgłoszeniach zewnętrznych.",
-      "d": "wyłącznie przepisy Kodeksu postępowania administracyjnego."
+      "d": "przepisy KPA, chyba że sygnalista wyraźnie wskaże ustawę o ochronie sygnalistów."
     },
     "correct_answers": [
       "c"
@@ -692,10 +692,10 @@
     "id": 54,
     "text": "Brak adresu do kontaktu w zgłoszeniu zewnętrznym, gdy nie można go ustalić, powoduje m.in., że:",
     "options": {
-      "a": "sygnalista traci ochronę z art. 6.",
+      "a": "RPO i organ publiczny nie muszą przekazywać informacji zwrotnej, ale nadal muszą potwierdzić przyjęcie zgłoszenia.",
       "b": "RPO nie realizuje obowiązków informacyjnych wskazanych w art. 32 ust. 3 i 5, art. 37 oraz art. 40 ust. 1 zdanie drugie.",
-      "c": "zgłoszenie z mocy prawa jest fałszywe.",
-      "d": "organ publiczny musi natychmiast umorzyć każde postępowanie."
+      "c": "zgłoszenie pozostawia się bez rozpoznania, chyba że dotyczy bezpośredniego zagrożenia interesu publicznego.",
+      "d": "sygnalista traci możliwość żądania zaświadczenia, ale nie wpływa to na inne obowiązki organu."
     },
     "correct_answers": [
       "b"
@@ -705,10 +705,10 @@
     "id": 55,
     "text": "Zgłoszenie zewnętrzne może być dokonane:",
     "options": {
-      "a": "wyłącznie przez pełnomocnika zawodowego.",
+      "a": "pisemnie albo w postaci elektronicznej, natomiast zgłoszenie ustne dotyczy tylko procedury wewnętrznej.",
       "b": "ustnie albo pisemnie.",
-      "c": "wyłącznie przez formularz internetowy.",
-      "d": "wyłącznie listem poleconym."
+      "c": "ustnie, pisemnie albo przez ujawnienie publiczne, jeżeli organ nie ma formularza internetowego.",
+      "d": "wyłącznie w postaci dokumentowej na adres wskazany przez RPO albo organ publiczny."
     },
     "correct_answers": [
       "b"
@@ -718,9 +718,9 @@
     "id": 56,
     "text": "Który sposób mieści się w elektronicznej postaci dokumentowej zgłoszenia zewnętrznego?",
     "options": {
-      "a": "Wyłącznie podpisany kwalifikowanym podpisem elektronicznym akt notarialny.",
-      "b": "Wyłącznie rozmowa telefoniczna bez utrwalenia.",
-      "c": "Wyłącznie wpis w rejestrze przedsiębiorców.",
+      "a": "pismo w postaci papierowej wysłane na adres do korespondencji wskazany przez organ.",
+      "b": "rozmowa telefoniczna, jeżeli została utrwalona za zgodą sygnalisty.",
+      "c": "wiadomość e-mail na dowolny adres pracownika urzędu, jeżeli dotyczy naruszenia prawa.",
       "d": "Wiadomość na adres do doręczeń elektronicznych albo formularz internetowy lub aplikacja wskazana przez organ."
     },
     "correct_answers": [
@@ -731,10 +731,10 @@
     "id": 57,
     "text": "RPO albo organ publiczny potwierdza przyjęcie zgłoszenia zewnętrznego:",
     "options": {
-      "a": "wyłącznie wtedy, gdy zgłoszenie jest anonimowe.",
+      "a": "w terminie 14 dni od dokonania zgłoszenia, chyba że sprawa wymaga przekazania innemu organowi.",
       "b": "niezwłocznie, nie później niż w terminie 7 dni od przyjęcia, chyba że sygnalista wystąpił z odmiennym wnioskiem albo potwierdzenie zagroziłoby poufności tożsamości.",
-      "c": "zawsze po 30 dniach od przyjęcia.",
-      "d": "tylko po zakończeniu działań następczych."
+      "c": "w terminie 7 dni od dokonania zgłoszenia, bez wyjątków związanych z poufnością.",
+      "d": "dopiero wraz z pierwszą informacją zwrotną o działaniach następczych."
     },
     "correct_answers": [
       "b"
@@ -744,9 +744,9 @@
     "id": 58,
     "text": "Zaświadczenie potwierdzające, że sygnalista podlega ochronie, wydaje na żądanie sygnalisty:",
     "options": {
-      "a": "wyłącznie RPO, w terminie 14 dni od zgłoszenia.",
-      "b": "podmiot prawny, który przyjął zgłoszenie wewnętrzne, w terminie 7 dni.",
-      "c": "sąd pracy, po prawomocnym wyroku.",
+      "a": "RPO po przekazaniu zgłoszenia organowi publicznemu, w terminie miesiąca od przekazania.",
+      "b": "organ, który przyjął zgłoszenie zewnętrzne, niezależnie od właściwości do działań następczych.",
+      "c": "podmiot prawny, jeżeli sygnalista najpierw dokonał zgłoszenia wewnętrznego.",
       "d": "organ publiczny właściwy do podjęcia działań następczych, nie później niż w terminie miesiąca od otrzymania żądania."
     },
     "correct_answers": [
@@ -757,10 +757,10 @@
     "id": 59,
     "text": "RPO albo organ publiczny odstępuje od żądania wyjaśnień lub dodatkowych informacji od sygnalisty, jeżeli:",
     "options": {
-      "a": "sygnalista dokonał zgłoszenia zewnętrznego bez wcześniejszego wewnętrznego.",
-      "b": "sprawa dotyczy sektora prywatnego.",
+      "a": "sygnalista nie podał pełnych danych identyfikacyjnych, lecz podał adres do kontaktu.",
+      "b": "zgłoszenie dotyczy naruszenia, które może być rozpoznane także w innym trybie prawnym.",
       "c": "mogłoby to zagrozić ochronie poufności jego tożsamości.",
-      "d": "zgłoszenie dotyczy korupcji."
+      "d": "organ może ustalić stan faktyczny na podstawie informacji zawartych w zgłoszeniu."
     },
     "correct_answers": [
       "c"
@@ -770,9 +770,9 @@
     "id": 60,
     "text": "W uzasadnionych przypadkach organ publiczny może przekazać zgłoszenie zewnętrzne w celu przeprowadzenia postępowania wyjaśniającego:",
     "options": {
-      "a": "dowolnemu podmiotowi prywatnemu wybranemu przez sygnalistę.",
-      "b": "osobie, której dotyczy zgłoszenie.",
-      "c": "wyłącznie sądowi powszechnemu.",
+      "a": "innemu organowi publicznemu niewłaściwemu rzeczowo, jeżeli dysponuje lepszymi zasobami technicznymi.",
+      "b": "podmiotowi prawnemu, którego dotyczy zgłoszenie, jeżeli ma własną procedurę wewnętrzną.",
+      "c": "RPO, który przejmuje prowadzenie postępowania wyjaśniającego.",
       "d": "jednostkom organizacyjnym podległym lub nadzorowanym."
     },
     "correct_answers": [
@@ -783,9 +783,9 @@
     "id": 61,
     "text": "RPO może pozostawić zgłoszenie zewnętrzne bez rozpoznania m.in. wtedy, gdy:",
     "options": {
-      "a": "zgłoszenie dotyczy osoby pełniącej funkcję publiczną.",
-      "b": "sygnalista nie skorzystał z procedury wewnętrznej.",
-      "c": "zgłoszenie zawiera załączniki.",
+      "a": "zgłoszenie dotyczy sprawy, którą sygnalista mógł wcześniej zgłosić wewnętrznie.",
+      "b": "zgłoszenie zostało dokonane anonimowo, a RPO przyjmuje zgłoszenia anonimowe.",
+      "c": "zgłoszenie dotyczy naruszeń prawa w dziedzinie właściwej dla organu publicznego.",
       "d": "w kolejnym zgłoszeniu dotyczącym sprawy będącej już przedmiotem wcześniejszego zgłoszenia nie ma istotnych nowych informacji."
     },
     "correct_answers": [
@@ -796,10 +796,10 @@
     "id": 62,
     "text": "Organ publiczny może nie podjąć działań następczych w sprawie ponownego zgłoszenia, jeżeli:",
     "options": {
-      "a": "zostało złożone po godzinach pracy urzędu.",
-      "b": "sygnalista podał adres do kontaktu.",
+      "a": "organ wcześniej przekazał informację zwrotną po upływie 6 miesięcy.",
+      "b": "ponowne zgłoszenie pochodzi od innego sygnalisty, więc nie wymaga wpisu do rejestru.",
       "c": "nie zawiera istotnych nowych informacji w porównaniu z wcześniejszym zgłoszeniem dotyczącym tej samej sprawy.",
-      "d": "dotyczy ono naruszenia prawa unijnego."
+      "d": "sygnalista równolegle złożył skargę, wniosek albo petycję w tej samej sprawie."
     },
     "correct_answers": [
       "c"
@@ -810,9 +810,9 @@
     "text": "Po uzasadnionym pozostawieniu zgłoszenia bez rozpoznania albo niepodjęciu działań następczych kolejne zgłoszenie w tej samej sprawie:",
     "options": {
       "a": "może zostać pozostawione bez rozpoznania bez informowania sygnalisty.",
-      "b": "zawsze musi zostać rozpoznane od początku.",
-      "c": "automatycznie trafia do sądu administracyjnego.",
-      "d": "powoduje utratę ochrony przez sygnalistę."
+      "b": "może zostać pominięte tylko wtedy, gdy pochodzi od tego samego sygnalisty.",
+      "c": "wymaga każdorazowo nowej informacji o przyczynach pozostawienia bez rozpoznania.",
+      "d": "nie podlega wpisowi do rejestru, jeżeli nie wszczęto działań następczych."
     },
     "correct_answers": [
       "a"
@@ -823,9 +823,9 @@
     "text": "Organ publiczny przekazuje sygnaliście informację zwrotną przy zgłoszeniu zewnętrznym zasadniczo w terminie:",
     "options": {
       "a": "nieprzekraczającym 3 miesięcy od dnia przyjęcia zgłoszenia zewnętrznego.",
-      "b": "7 dni od dnia przyjęcia zgłoszenia.",
-      "c": "14 dni od dnia dokonania zgłoszenia.",
-      "d": "12 miesięcy od końca roku kalendarzowego."
+      "b": "3 miesięcy od dnia potwierdzenia przyjęcia zgłoszenia zewnętrznego.",
+      "c": "3 miesięcy od dnia przekazania zgłoszenia przez RPO właściwemu organowi.",
+      "d": "14 dni od dnia dokonania zgłoszenia, z możliwością przedłużenia do 3 miesięcy."
     },
     "correct_answers": [
       "a"
@@ -835,10 +835,10 @@
     "id": 65,
     "text": "Termin informacji zwrotnej przy zgłoszeniu zewnętrznym może wynieść do 6 miesięcy, jeżeli:",
     "options": {
-      "a": "organ publiczny nie prowadzi rejestru zgłoszeń.",
-      "b": "zgłoszenie dotyczy naruszenia wewnętrznego kodeksu etyki.",
+      "a": "sprawa została przekazana przez RPO, a organ musi najpierw ustalić swoją właściwość.",
+      "b": "sygnalista nie podał adresu do kontaktu w chwili dokonania zgłoszenia.",
       "c": "zachodzi uzasadniony przypadek, a sygnalista zostanie poinformowany przed upływem terminu 3 miesięcy.",
-      "d": "sygnalista dokonał wcześniej zgłoszenia wewnętrznego."
+      "d": "organ publiczny prowadzi działania następcze przez jednostkę podległą albo nadzorowaną."
     },
     "correct_answers": [
       "c"
@@ -848,10 +848,10 @@
     "id": 66,
     "text": "Poza informacją zwrotną organ publiczny powinien poinformować sygnalistę także o:",
     "options": {
-      "a": "wynagrodzeniu pracownika prowadzącego sprawę.",
+      "a": "planowanym terminie zakończenia każdego postępowania wszczętego po zgłoszeniu.",
       "b": "ostatecznym wyniku postępowań wyjaśniających wszczętych na skutek zgłoszenia zewnętrznego.",
-      "c": "wynikach wszystkich kontroli prowadzonych w danym roku.",
-      "d": "danych osobowych wszystkich świadków."
+      "c": "treści rozstrzygnięć personalnych wobec osoby, której dotyczy zgłoszenie.",
+      "d": "pełnym uzasadnieniu odmowy wszczęcia postępowania w każdym trybie odrębnym."
     },
     "correct_answers": [
       "b"
@@ -862,9 +862,9 @@
     "text": "Kanały komunikacji RPO i organu publicznego dla zgłoszeń zewnętrznych muszą:",
     "options": {
       "a": "być niezależne od kanałów komunikacji wykorzystywanych w ramach zwykłej działalności oraz zapewniać kompletność, poufność i integralność danych.",
-      "b": "działać wyłącznie jako infolinia telefoniczna.",
-      "c": "umożliwiać publiczny dostęp do treści zgłoszeń.",
-      "d": "być niezależne od kanałów używanych w zwykłej działalności organu."
+      "b": "zapewniać poufność danych, ale mogą być zwykłymi kanałami urzędu bez odrębnych zabezpieczeń organizacyjnych.",
+      "c": "być odrębne wyłącznie od kanałów zgłoszeń wewnętrznych podmiotów prawnych.",
+      "d": "spełniać wymogi poufności tylko do chwili wpisania zgłoszenia do rejestru."
     },
     "correct_answers": [
       "a"
@@ -874,10 +874,10 @@
     "id": 68,
     "text": "Kanały komunikacji używane przez RPO lub organ publiczny do innych celów mogą być wykorzystane do zgłoszeń zewnętrznych, jeżeli:",
     "options": {
-      "a": "organ prowadzi mniej niż 10 spraw rocznie.",
+      "a": "są wskazane w BIP i sygnalista został uprzedzony, że nie są kanałami dedykowanymi.",
       "b": "spełniają wymagania dotyczące kanałów zgłoszeń zewnętrznych.",
-      "c": "sygnalista jest pracownikiem organu.",
-      "d": "zgłoszenie jest jawne."
+      "c": "zapewniają przyjęcie zgłoszenia, nawet jeżeli dostęp do nich mają pracownicy nieupoważnieni.",
+      "d": "organ nie ustanowił jeszcze oddzielnej procedury zgłoszeń zewnętrznych."
     },
     "correct_answers": [
       "b"
@@ -887,9 +887,9 @@
     "id": 69,
     "text": "Procedura przyjmowania zgłoszeń zewnętrznych i związane przetwarzanie danych muszą zapewniać m.in.:",
     "options": {
-      "a": "automatyczną publikację zgłoszenia po 3 miesiącach.",
-      "b": "dostęp do zgłoszenia każdemu pracownikowi urzędu.",
-      "c": "brak możliwości identyfikacji osoby, której dotyczy zgłoszenie, nawet przez upoważnione osoby.",
+      "a": "anonimizację zgłoszenia po przekazaniu informacji zwrotnej, chyba że sygnalista żąda zaświadczenia.",
+      "b": "dostęp do zgłoszenia wszystkim pracownikom prowadzącym sprawy z danej dziedziny.",
+      "c": "ochronę poufności wyłącznie sygnalisty, ale nie osoby, której dotyczy zgłoszenie.",
       "d": "uniemożliwienie dostępu osobom nieupoważnionym oraz ochronę poufności tożsamości sygnalisty i osoby, której dotyczy zgłoszenie."
     },
     "correct_answers": [
@@ -900,9 +900,9 @@
     "id": 70,
     "text": "Upoważnieni pracownicy Biura RPO i urzędu obsługującego organ publiczny zachowują poufność informacji i danych także:",
     "options": {
-      "a": "tylko do chwili przekazania informacji zwrotnej.",
-      "b": "wyłącznie przez 12 miesięcy od zgłoszenia.",
-      "c": "do momentu wpisu do rejestru.",
+      "a": "do zakończenia działań następczych, chyba że sprawa trafiła do sądu.",
+      "b": "przez okres przechowywania danych w rejestrze zgłoszeń zewnętrznych.",
+      "c": "do chwili przekazania sprawy właściwemu organowi publicznemu.",
       "d": "po ustaniu stosunku pracy."
     },
     "correct_answers": [
@@ -913,10 +913,10 @@
     "id": 71,
     "text": "Nieupoważniony pracownik, który otrzymał zgłoszenie zewnętrzne, powinien:",
     "options": {
-      "a": "opublikować informację o zgłoszeniu w BIP.",
+      "a": "zarejestrować zgłoszenie i dopiero potem przekazać je osobie upoważnionej.",
       "b": "nie ujawniać informacji mogących identyfikować sygnalistę lub osobę, której dotyczy zgłoszenie, i niezwłocznie przekazać zgłoszenie upoważnionemu pracownikowi bez zmian.",
-      "c": "odesłać sygnalistę bez przekazywania zgłoszenia.",
-      "d": "samodzielnie przeprowadzić pełne postępowanie wyjaśniające."
+      "c": "przekazać zgłoszenie przełożonemu, który decyduje, czy zachować je w urzędzie.",
+      "d": "poinformować sygnalistę o konieczności ponownego dokonania zgłoszenia właściwym kanałem."
     },
     "correct_answers": [
       "b"
@@ -926,9 +926,9 @@
     "id": 72,
     "text": "Rejestr zgłoszeń zewnętrznych prowadzony przez RPO obejmuje m.in.:",
     "options": {
-      "a": "wysokość wynagrodzenia sygnalisty.",
-      "b": "ocenę roczną pracownika, którego dotyczy zgłoszenie.",
-      "c": "pełną dokumentację wszystkich spraw kadrowych sygnalisty.",
+      "a": "datę przekazania sygnaliście informacji zwrotnej przez organ publiczny.",
+      "b": "informację o wydaniu zaświadczenia potwierdzającego ochronę.",
+      "c": "datę zakończenia działań następczych przez organ publiczny.",
       "d": "wskazanie organu publicznego właściwego do podjęcia działań następczych, do którego zgłoszenie przekazano, oraz datę przekazania."
     },
     "correct_answers": [
@@ -939,10 +939,10 @@
     "id": 73,
     "text": "Rejestr zgłoszeń zewnętrznych organu publicznego obejmuje element odróżniający go od rejestru RPO, czyli:",
     "options": {
-      "a": "treść korespondencji prywatnej sygnalisty.",
+      "a": "datę przekazania zgłoszenia przez RPO do właściwego organu publicznego.",
       "b": "informacje o wydaniu zaświadczenia, o którym mowa w art. 38.",
-      "c": "datę urodzenia każdego świadka.",
-      "d": "dane wszystkich pracowników organu."
+      "c": "datę poinformowania sygnalisty przez RPO o przekazaniu zgłoszenia.",
+      "d": "wskazanie organu publicznego, do którego RPO przekazał zgłoszenie."
     },
     "correct_answers": [
       "b"
@@ -953,8 +953,8 @@
     "text": "Dane osobowe i pozostałe informacje w rejestrze zgłoszeń zewnętrznych RPO przechowuje się:",
     "options": {
       "a": "przez 3 lata po zakończeniu roku kalendarzowego, w którym zakończono działania następcze.",
-      "b": "bezterminowo.",
-      "c": "do dnia potwierdzenia przyjęcia zgłoszenia.",
+      "b": "przez 12 miesięcy od dnia dokonania zgłoszenia zewnętrznego.",
+      "c": "przez 3 lata od dnia przekazania zgłoszenia organowi właściwemu.",
       "d": "przez 12 miesięcy po zakończeniu roku kalendarzowego, w którym przekazano zgłoszenie do organu publicznego właściwego do działań następczych."
     },
     "correct_answers": [
@@ -966,9 +966,9 @@
     "text": "Dane osobowe i pozostałe informacje w rejestrze zgłoszeń zewnętrznych organu publicznego przechowuje się:",
     "options": {
       "a": "przez 3 lata po zakończeniu roku kalendarzowego, w którym zakończono działania następcze albo po zakończeniu postępowań zainicjowanych tymi działaniami.",
-      "b": "przez 12 miesięcy po przekazaniu zgłoszenia innemu organowi.",
-      "c": "wyłącznie przez 7 dni od przyjęcia zgłoszenia.",
-      "d": "bezterminowo, bo rejestr ma charakter archiwalny."
+      "b": "przez 12 miesięcy po zakończeniu roku kalendarzowego, w którym organ przyjął zgłoszenie.",
+      "c": "przez 3 lata od dnia dokonania zgłoszenia, niezależnie od działań następczych.",
+      "d": "przez okres wskazany w procedurze zewnętrznej, nie krótszy niż 12 miesięcy."
     },
     "correct_answers": [
       "a"
@@ -978,10 +978,10 @@
     "id": 76,
     "text": "Organ publiczny przekazuje RPO roczne sprawozdanie statystyczne o zgłoszeniach zewnętrznych:",
     "options": {
-      "a": "tylko na żądanie Rady Ministrów.",
+      "a": "do dnia 31 stycznia roku następującego po roku, za jaki sporządzono sprawozdanie.",
       "b": "do dnia 31 marca roku następującego po roku, za jaki sporządzono sprawozdanie.",
-      "c": "do dnia 31 stycznia tego samego roku.",
-      "d": "w terminie 14 dni od każdego zgłoszenia."
+      "c": "do dnia 30 czerwca roku następującego po roku, za jaki sporządzono sprawozdanie.",
+      "d": "w terminie 3 miesięcy od dnia przekazania ostatniej informacji zwrotnej w danym roku."
     },
     "correct_answers": [
       "b"
@@ -992,9 +992,9 @@
     "text": "RPO przekazuje Sejmowi, Senatowi i Komisji Europejskiej zbiorcze sprawozdanie za dany rok:",
     "options": {
       "a": "do dnia 31 grudnia roku następującego po roku, za jaki sporządzono sprawozdanie.",
-      "b": "do dnia 31 marca roku, za jaki sporządzono sprawozdanie.",
-      "c": "co miesiąc.",
-      "d": "wyłącznie po otrzymaniu skargi od sygnalisty."
+      "b": "do dnia 31 marca roku następującego po roku, za jaki sporządzono sprawozdanie.",
+      "c": "do dnia 30 czerwca roku następującego po otrzymaniu sprawozdań organów publicznych.",
+      "d": "raz na dwa lata wraz ze sprawozdaniem z działalności RPO."
     },
     "correct_answers": [
       "a"
@@ -1005,9 +1005,9 @@
     "text": "Dane statystyczne w sprawozdaniu organu publicznego nie obejmują:",
     "options": {
       "a": "danych osobowych ani informacji stanowiących tajemnicę przedsiębiorstwa.",
-      "b": "liczby przyjętych zgłoszeń.",
-      "c": "liczby postępowań wszczętych w wyniku zgłoszeń.",
-      "d": "szacunkowej szkody majątkowej, o ile organ posiada te dane."
+      "b": "liczby przyjętych zgłoszeń oraz liczby postępowań wyjaśniających.",
+      "c": "szacunkowej szkody majątkowej, jeżeli organ posiada takie dane.",
+      "d": "liczby postępowań wszczętych wskutek zgłoszeń zewnętrznych."
     },
     "correct_answers": [
       "a"
@@ -1017,9 +1017,9 @@
     "id": 79,
     "text": "Informacje na stronie BIP organu publicznego o zgłoszeniach zewnętrznych powinny być umieszczone:",
     "options": {
-      "a": "wyłącznie w regulaminie organizacyjnym urzędu.",
-      "b": "tylko w siedzibie organu na tablicy ogłoszeń.",
-      "c": "w rejestrze zgłoszeń wewnętrznych podmiotu prawnego.",
+      "a": "w zakładce dotyczącej skarg i wniosków, jeżeli zawiera dane kontaktowe organu.",
+      "b": "w BIP albo na stronie podmiotu prawnego, jeżeli organ korzysta ze wspólnych kanałów.",
+      "c": "w rejestrze zgłoszeń zewnętrznych, jeżeli rejestr jest prowadzony elektronicznie.",
       "d": "w oddzielnej, łatwo identyfikowalnej i dostępnej sekcji."
     },
     "correct_answers": [
@@ -1030,10 +1030,10 @@
     "id": 80,
     "text": "Która informacja należy do katalogu informacji BIP organu publicznego o zgłoszeniach zewnętrznych?",
     "options": {
-      "a": "Ocena wiarygodności każdego sygnalisty.",
-      "b": "Wyniki kontroli niezwiązanych ze zgłoszeniami.",
+      "a": "szczegółowy opis wszystkich działań następczych prowadzonych w poprzednim roku.",
+      "b": "imienny wykaz pracowników upoważnionych do przyjmowania zgłoszeń zewnętrznych.",
       "c": "Termin przekazania informacji zwrotnej oraz rodzaj i zawartość takiej informacji.",
-      "d": "Pełna lista dokonanych zgłoszeń wraz z danymi sygnalistów."
+      "d": "informacja o liczbie zgłoszeń pozostawionych bez rozpoznania w danym roku."
     },
     "correct_answers": [
       "c"
@@ -1044,9 +1044,9 @@
     "text": "Przegląd procedury przyjmowania zgłoszeń zewnętrznych przez RPO i procedury zgłoszeń zewnętrznych organu publicznego następuje:",
     "options": {
       "a": "co najmniej raz na 3 lata.",
-      "b": "co miesiąc.",
-      "c": "wyłącznie po zmianie kierownika jednostki.",
-      "d": "dopiero po kontroli Najwyższej Izby Kontroli."
+      "b": "co najmniej raz w roku, przy okazji sprawozdania statystycznego.",
+      "c": "każdorazowo po otrzymaniu zgłoszenia zewnętrznego dotyczącego nowej dziedziny.",
+      "d": "co najmniej raz na 2 lata, tak jak sprawozdanie RPO z wykonywania zadań."
     },
     "correct_answers": [
       "a"
@@ -1056,10 +1056,10 @@
     "id": 82,
     "text": "W zakresie nieuregulowanym w rozdziale o zgłoszeniach zewnętrznych do postępowania przed organami publicznymi stosuje się:",
     "options": {
-      "a": "Kodeks rodzinny i opiekuńczy.",
-      "b": "wyłącznie wewnętrzny regulamin organu.",
+      "a": "przepisy o skargach i wnioskach z KPA, ale tylko gdy zgłoszenie pochodzi od strony postępowania.",
+      "b": "Kodeks postępowania cywilnego w zakresie dowodów i doręczeń.",
       "c": "Kodeks postępowania administracyjnego.",
-      "d": "Kodeks karny wykonawczy."
+      "d": "przepisy KPA tylko do wstępnej weryfikacji zgłoszenia."
     },
     "correct_answers": [
       "c"
@@ -1069,9 +1069,9 @@
     "id": 83,
     "text": "Sygnalista dokonał zgłoszenia wewnętrznego, następnie zewnętrznego, a w terminach informacji zwrotnej nie podjęto odpowiednich działań następczych ani nie przekazano informacji zwrotnej. Co wynika z art. 51?",
     "options": {
-      "a": "Sygnalista traci ochronę za pominięcie sądu administracyjnego.",
-      "b": "Ujawnienie publiczne jest zawsze przestępstwem.",
-      "c": "Sygnalista musi czekać 3 lata od zgłoszenia zewnętrznego.",
+      "a": "Ujawnienie publiczne jest chronione tylko po wydaniu zaświadczenia z art. 38.",
+      "b": "Ujawnienie publiczne wymaga jeszcze ponownego zgłoszenia zewnętrznego do RPO.",
+      "c": "Ujawnienie publiczne jest chronione wyłącznie wtedy, gdy organ potwierdził przyjęcie zgłoszenia.",
       "d": "Ujawnienie publiczne może korzystać z ochrony."
     },
     "correct_answers": [
@@ -1082,9 +1082,9 @@
     "id": 84,
     "text": "Sygnalista dokonał od razu zgłoszenia zewnętrznego, ale organ publiczny w terminie procedury zewnętrznej nie podjął odpowiednich działań następczych ani nie przekazał informacji zwrotnej. W takim układzie:",
     "options": {
-      "a": "ochrona jest wyłączona, bo zawsze najpierw trzeba zgłosić wewnętrznie.",
-      "b": "ochrona zależy wyłącznie od zgody pracodawcy.",
-      "c": "ujawnienie publiczne jest dopuszczalne tylko anonimowo.",
+      "a": "ochrona jest wyłączona, jeżeli sygnalista pominął procedurę wewnętrzną mimo jej istnienia.",
+      "b": "ochrona powstaje tylko wtedy, gdy organ publiczny pozostawił zgłoszenie bez rozpoznania.",
+      "c": "ujawnienie publiczne wymaga najpierw żądania zaświadczenia o ochronie.",
       "d": "ujawnienie publiczne może być objęte ochroną na podstawie art. 51 ust. 1 pkt 2."
     },
     "correct_answers": [
@@ -1096,9 +1096,9 @@
     "text": "Ujawnienie publiczne może być chronione bez wcześniejszego wykorzystania zwykłej sekwencji zgłoszeń, gdy sygnalista ma uzasadnione podstawy sądzić, że:",
     "options": {
       "a": "naruszenie może stanowić bezpośrednie lub oczywiste zagrożenie interesu publicznego, zgłoszenie zewnętrzne narazi go na odwet albo istnieje niewielkie prawdopodobieństwo skutecznego przeciwdziałania naruszeniu.",
-      "b": "sprawa jest interesująca medialnie.",
-      "c": "podmiot prawny zatrudnia mniej niż 50 osób.",
-      "d": "naruszenie dotyczy wyłącznie regulaminu pracy."
+      "b": "podmiot prawny nie ustanowił procedury wewnętrznej mimo obowiązku jej ustanowienia.",
+      "c": "sprawa dotyczy dziedziny wskazanej w art. 3 ust. 1 i sygnalista ma dowody z dokumentów.",
+      "d": "organ publiczny nie potwierdził przyjęcia zgłoszenia w terminie 7 dni."
     },
     "correct_answers": [
       "a"
@@ -1108,10 +1108,10 @@
     "id": 86,
     "text": "Przy ocenie, czy działanie następcze jest odpowiednie na potrzeby ochrony ujawnienia publicznego, bierze się pod uwagę w szczególności:",
     "options": {
-      "a": "wyłącznie liczbę osób zatrudnionych w podmiocie prawnym.",
-      "b": "wyłącznie ocenę medialną sprawy.",
+      "a": "terminowość potwierdzenia przyjęcia zgłoszenia i formalną kompletność rejestru.",
+      "b": "to, czy działania następcze doprowadziły do ukarania osoby, której dotyczy zgłoszenie.",
       "c": "czynności podjęte w celu zweryfikowania informacji o naruszeniu, prawidłowość oceny prawdziwości oraz środki podjęte w celu przeciwdziałania naruszeniu.",
-      "d": "wyłącznie to, czy sygnalista jest pracownikiem etatowym."
+      "d": "wyłącznie to, czy organ publiczny przekazał informację zwrotną w terminie."
     },
     "correct_answers": [
       "c"
@@ -1121,10 +1121,10 @@
     "id": 87,
     "text": "Przepisów o ujawnieniu publicznym z art. 51 i 52 nie stosuje się, gdy przekazanie informacji następuje:",
     "options": {
-      "a": "anonimowo do RPO.",
+      "a": "do organu publicznego z pominięciem procedury wewnętrznej.",
       "b": "bezpośrednio do prasy zgodnie z odrębnymi przepisami ustanawiającymi system ochrony wolności wypowiedzi i informacji.",
-      "c": "do organu publicznego jako zgłoszenie zewnętrzne.",
-      "d": "do podmiotu prawnego jako zgłoszenie wewnętrzne."
+      "c": "do RPO, jeżeli zgłoszenie dotyczy konstytucyjnych wolności i praw człowieka.",
+      "d": "do podmiotu prawnego, który dobrowolnie dopuścił zgłoszenia anonimowe."
     },
     "correct_answers": [
       "b"
@@ -1135,9 +1135,9 @@
     "text": "Kto, chcąc aby inna osoba nie dokonała zgłoszenia, uniemożliwia jej to lub istotnie utrudnia, podlega:",
     "options": {
       "a": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.",
-      "b": "wyłącznie karze grzywny.",
-      "c": "pozbawieniu wolności do lat 5.",
-      "d": "wyłącznie odpowiedzialności dyscyplinarnej."
+      "b": "grzywnie albo karze ograniczenia wolności, ale nie karze pozbawienia wolności.",
+      "c": "karze pozbawienia wolności do lat 2, jeżeli utrudnianie było uporczywe.",
+      "d": "tej samej karze co za ujawnienie tożsamości sygnalisty, ale tylko gdy działanie było skuteczne."
     },
     "correct_answers": [
       "a"
@@ -1147,9 +1147,9 @@
     "id": 89,
     "text": "Jeżeli sprawca uniemożliwiania lub istotnego utrudniania zgłoszenia stosuje wobec innej osoby przemoc, groźbę bezprawną lub podstęp, grozi mu:",
     "options": {
-      "a": "wyłącznie kara nagany.",
-      "b": "wyłącznie grzywna do 500 zł.",
-      "c": "pozbawienie wolności do lat 10.",
+      "a": "grzywna, kara ograniczenia wolności albo pozbawienia wolności do roku.",
+      "b": "kara pozbawienia wolności od 3 miesięcy do lat 5.",
+      "c": "kara pozbawienia wolności do lat 2, tak jak przy świadomie fałszywym zgłoszeniu.",
       "d": "kara pozbawienia wolności do lat 3."
     },
     "correct_answers": [
@@ -1160,9 +1160,9 @@
     "id": 90,
     "text": "Za podejmowanie działań odwetowych wobec sygnalisty, osoby pomagającej lub osoby powiązanej grozi co do zasady:",
     "options": {
-      "a": "wyłącznie odpowiedzialność cywilna.",
-      "b": "pozbawienie wolności do roku.",
-      "c": "pozbawienie wolności do lat 5.",
+      "a": "wyłącznie odpowiedzialność cywilna, chyba że działania odwetowe były uporczywe.",
+      "b": "grzywna albo kara ograniczenia wolności, bez możliwości pozbawienia wolności.",
+      "c": "kara pozbawienia wolności do roku, a przy uporczywości do lat 2.",
       "d": "grzywna, kara ograniczenia wolności albo pozbawienia wolności do lat 2."
     },
     "correct_answers": [
@@ -1173,10 +1173,10 @@
     "id": 91,
     "text": "Uporczywe podejmowanie działań odwetowych jest zagrożone:",
     "options": {
-      "a": "brakiem odpowiedzialności karnej, jeżeli sprawca jest pracodawcą.",
+      "a": "karą pozbawienia wolności do lat 2, tak jak podstawowa postać działań odwetowych.",
       "b": "karą pozbawienia wolności do lat 3.",
-      "c": "wyłącznie grzywną.",
-      "d": "karą pozbawienia wolności do roku."
+      "c": "grzywną, karą ograniczenia wolności albo pozbawienia wolności do roku.",
+      "d": "wyłącznie zwiększeniem minimalnego odszkodowania należnego sygnaliście."
     },
     "correct_answers": [
       "b"
@@ -1187,9 +1187,9 @@
     "text": "Ujawnienie tożsamości sygnalisty, osoby pomagającej lub osoby powiązanej wbrew przepisom ustawy jest zagrożone:",
     "options": {
       "a": "grzywną, karą ograniczenia wolności albo pozbawienia wolności do roku.",
-      "b": "wyłącznie obowiązkiem przeprosin.",
-      "c": "karą pozbawienia wolności do lat 8.",
-      "d": "brakiem sankcji, jeśli informacja była prawdziwa."
+      "b": "karą pozbawienia wolności do lat 2, jeżeli ujawnienie nastąpiło publicznie.",
+      "c": "wyłącznie odpowiedzialnością administracyjną za naruszenie ochrony danych osobowych.",
+      "d": "taką samą sankcją jak uporczywe działania odwetowe."
     },
     "correct_answers": [
       "a"
@@ -1199,10 +1199,10 @@
     "id": 93,
     "text": "Kto dokonuje zgłoszenia lub ujawnienia publicznego, wiedząc, że do naruszenia prawa nie doszło, podlega:",
     "options": {
-      "a": "karze pozbawienia wolności do lat 5.",
-      "b": "wyłącznie utracie statusu sygnalisty, bez sankcji karnej.",
+      "a": "grzywnie albo karze ograniczenia wolności, ale nie karze pozbawienia wolności.",
+      "b": "odpowiedzialności karnej tylko wtedy, gdy wyrządziło to szkodę majątkową.",
       "c": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.",
-      "d": "wyłącznie odpowiedzialności porządkowej."
+      "d": "karze pozbawienia wolności do roku, tak jak przy ujawnieniu tożsamości."
     },
     "correct_answers": [
       "c"
@@ -1213,9 +1213,9 @@
     "text": "Osoba odpowiedzialna za ustanowienie procedury zgłoszeń wewnętrznych, która jej nie ustanawia albo ustanawia ją z istotnym naruszeniem wymogów ustawy, podlega:",
     "options": {
       "a": "karze grzywny.",
-      "b": "karze pozbawienia wolności do lat 2.",
-      "c": "wyłącznie odpowiedzialności cywilnej wobec sygnalisty.",
-      "d": "karze ograniczenia wolności bez możliwości grzywny."
+      "b": "grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.",
+      "c": "karze ograniczenia wolności, jeżeli procedura została ustanowiona z istotnym naruszeniem wymogów.",
+      "d": "odpowiedzialności karnej tylko wtedy, gdy brak procedury uniemożliwił konkretne zgłoszenie."
     },
     "correct_answers": [
       "a"
@@ -1226,9 +1226,9 @@
     "text": "Orzekanie w sprawach o czyn polegający na nieustanowieniu procedury albo ustanowieniu jej z istotnym naruszeniem wymogów następuje w trybie:",
     "options": {
       "a": "Kodeksu postępowania w sprawach o wykroczenia.",
-      "b": "Kodeksu postępowania cywilnego.",
-      "c": "postępowania przed sądem administracyjnym.",
-      "d": "wewnętrznego postępowania dyscyplinarnego."
+      "b": "Kodeksu postępowania karnego, ponieważ czyn jest przestępstwem ściganym z urzędu.",
+      "c": "postępowania administracyjnego przed organem publicznym właściwym do zgłoszeń zewnętrznych.",
+      "d": "postępowania cywilnego, jeżeli sygnalista dochodzi jednocześnie odszkodowania."
     },
     "correct_answers": [
       "a"
@@ -1238,10 +1238,10 @@
     "id": 96,
     "text": "Nieodpłatna pomoc prawna i nieodpłatne poradnictwo obywatelskie przysługują osobie:",
     "options": {
-      "a": "wyłącznie będącej pracownikiem sektora publicznego.",
-      "b": "tylko po wydaniu zaświadczenia z art. 38.",
+      "a": "osobie, która już dokonała zgłoszenia zewnętrznego i otrzymała potwierdzenie jego przyjęcia.",
+      "b": "osobie, która ma status sygnalisty potwierdzony zaświadczeniem organu publicznego.",
       "c": "chcącej dokonać zgłoszenia naruszenia prawa w rozumieniu ustawy o ochronie sygnalistów.",
-      "d": "wyłącznie po dokonaniu ujawnienia publicznego."
+      "d": "wyłącznie osobie, wobec której podjęto działania odwetowe po dokonaniu zgłoszenia."
     },
     "correct_answers": [
       "c"
@@ -1252,9 +1252,9 @@
     "text": "Pierwsze sprawozdanie RPO, o którym mowa w przepisach przejściowych, jest przekazywane Sejmowi, Senatowi i Komisji Europejskiej:",
     "options": {
       "a": "do dnia 31 grudnia 2026 r.",
-      "b": "do dnia 31 marca 2025 r.",
-      "c": "w dniu wejścia ustawy w życie.",
-      "d": "po upływie 3 lat od ogłoszenia ustawy."
+      "b": "do dnia 31 marca 2026 r., razem ze sprawozdaniami organów publicznych.",
+      "c": "do dnia 31 grudnia 2025 r., za okres od rozpoczęcia przyjmowania zgłoszeń.",
+      "d": "do dnia 31 marca 2027 r., po pierwszym pełnym roku sprawozdawczym."
     },
     "correct_answers": [
       "a"
@@ -1264,10 +1264,10 @@
     "id": 98,
     "text": "Przepisy przejściowe dotyczące sprawozdań za 2025 r. przewidują, że organ publiczny oraz RPO sporządzają je:",
     "options": {
-      "a": "dopiero za lata 2025-2027 łącznie.",
-      "b": "wyłącznie wtedy, gdy przyjęto co najmniej 100 zgłoszeń.",
+      "a": "za pełny okres od wejścia w życie ustawy, z wyłączeniem pierwszych 3 miesięcy.",
+      "b": "za rok kalendarzowy 2025, ale tylko w zakresie zgłoszeń przekazanych przez RPO.",
       "c": "za okres od dnia rozpoczęcia przyjmowania zgłoszeń zewnętrznych.",
-      "d": "za pełny rok kalendarzowy od 1 stycznia 2025 r. bez wyjątków."
+      "d": "za okres od dnia ogłoszenia ustawy do końca 2025 r."
     },
     "correct_answers": [
       "c"
@@ -1277,10 +1277,10 @@
     "id": 99,
     "text": "Ustawa co do zasady wchodzi w życie po upływie 3 miesięcy od ogłoszenia, ale wyjątek obejmuje m.in.:",
     "options": {
-      "a": "całą ustawę, która wchodzi w życie po 12 miesiącach.",
+      "a": "przepisy o procedurach wewnętrznych, które wchodzą w życie po upływie 6 miesięcy od ogłoszenia.",
       "b": "art. 5 ust. 4, art. 25 ust. 1 pkt 8 oraz przepisy rozdziału o zgłoszeniach zewnętrznych, które wchodzą w życie po upływie 6 miesięcy od ogłoszenia.",
-      "c": "wszystkie przepisy karne, które wchodzą w życie po 5 latach.",
-      "d": "wyłącznie art. 3, który wchodzi w życie z dniem ogłoszenia."
+      "c": "przepisy karne, które wchodzą w życie po upływie 6 miesięcy od ogłoszenia.",
+      "d": "art. 3 i art. 4, które wchodzą w życie z dniem ogłoszenia."
     },
     "correct_answers": [
       "b"
@@ -1291,9 +1291,9 @@
     "text": "Które zestawienie sankcji z rozdziału 6 jest najtrafniejsze?",
     "options": {
       "a": "Utrudnianie zgłoszenia: do roku, a z przemocą, groźbą lub podstępem do 3 lat; odwet: do 2 lat, uporczywy odwet do 3 lat; świadomie fałszywe zgłoszenie: do 2 lat; brak procedury: grzywna.",
-      "b": "Utrudnianie zgłoszenia: tylko grzywna; odwet: do roku; fałszywe zgłoszenie: brak sankcji; brak procedury: do 3 lat.",
-      "c": "Ujawnienie tożsamości: do 5 lat; odwet: tylko odpowiedzialność cywilna; brak procedury: brak sankcji.",
-      "d": "Wszystkie czyny z rozdziału 6 są zagrożone identyczną karą pozbawienia wolności do 2 lat."
+      "b": "Utrudnianie zgłoszenia i ujawnienie tożsamości: do roku; odwet i świadomie fałszywe zgłoszenie: do 3 lat; brak procedury: grzywna.",
+      "c": "Utrudnianie zgłoszenia: do 2 lat; odwet: do roku; ujawnienie tożsamości: do 2 lat; brak procedury: kara ograniczenia wolności.",
+      "d": "Utrudnianie zgłoszenia z użyciem podstępu: do 2 lat; odwet: do 3 lat; uporczywy odwet: do 5 lat; brak procedury: grzywna."
     },
     "correct_answers": [
       "a"
